@@ -1,0 +1,8 @@
+{
+  "name": "Eco-Permit Navigator",
+  "description": "한화에어로스페이스 환경 인허가 스마트 자가진단 및 신고서 생성기",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
